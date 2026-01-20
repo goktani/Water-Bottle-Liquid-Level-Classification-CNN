@@ -54,7 +54,7 @@ The model consists of a sequential stack of layers:
 4.  **Output Layer:** Softmax activation for multi-class classification.
 
 ## 📈 Results
-*(Buraya notebook'un sonundaki doğruluk/accuracy grafiğinin bir ekran görüntüsünü eklersen harika olur. Örn: ![Accuracy Graph](images/accuracy.png))*
+![Accuracy Graph](accuracy.png)
 
 ## 👤 Author
 **Göktan İren**
